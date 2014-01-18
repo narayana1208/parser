@@ -1,0 +1,147 @@
+https://docs.google.com/viewer?a=li
+SRCID :0
+DOCID :0
+https://docs.google.com/viewer?a=li
+SRCID :0
+DOCID :0
+https://docs.google.com/static/spreadsheets/client/css/2705176882-waffle_k_ltr.css
+SRCID :0
+DOCID :0
+https://docs.google.com/static/spreadsheets/client/js/2221512652-trix_waffle_i18n_core.js
+SRCID :0
+DOCID :0
+https://docs.google.com/static/spreadsheets/client/js/517653131-trix_waffle_i18n_shell.js
+SRCID :0
+DOCID :0
+https://docs.google.com/static/spreadsheets/client/js/2397034571-trix_waffle_i18n_postshellbase.js
+SRCID :0
+DOCID :0
+https://docs.google.com/static/spreadsheets/client/js/2059288335-trix_waffle_i18n_docos.js
+SRCID :0
+DOCID :0
+https://docs.google.com/static/spreadsheets/client/js/2886879792-trix_waffle_i18n_shareclient.js
+SRCID :0
+DOCID :0
+https://docs.google.com/static/spreadsheets/client/js/1056995800-bc_manager_core.js
+SRCID :0
+DOCID :0
+https://docs.google.com/favicon.ico
+SRCID :0
+DOCID :0
+https://docs.google.com/static/spreadsheets/client/js/1434974013-trix_waffle_i18n_cloudboard.js
+SRCID :0
+DOCID :0
+https://docs.google.com/static/spreadsheets/client/js/3427355734-trix_waffle_i18n_findreplace.js
+SRCID :0
+DOCID :0
+https://docs.google.com/static/spreadsheets/client/js/1422442619-trix_waffle_i18n_goto.js
+SRCID :0
+DOCID :0
+https://docs.google.com/viewer?a=li
+SRCID :0
+DOCID :0
+https://docs.google.com/static/spreadsheets/client/js/690721572-trix_waffle_i18n_api.js
+SRCID :0
+DOCID :0
+https://docs.google.com/static/spreadsheets/client/js/993112118-trix_waffle_i18n_copydialog.js
+SRCID :0
+DOCID :0
+https://docs.google.com/static/spreadsheets/client/js/3960849804-trix_waffle_i18n_dialogs.js
+SRCID :0
+DOCID :0
+https://docs.google.com/static/spreadsheets/client/js/1379030927-trix_waffle_i18n_charts.js
+SRCID :0
+DOCID :0
+https://docs.google.com/static/spreadsheets/client/js/3952747463-trix_waffle_i18n_glookup.js
+SRCID :0
+DOCID :0
+https://docs.google.com/static/spreadsheets/client/js/3404594510-trix_waffle_i18n_gadgets.js
+SRCID :0
+DOCID :0
+https://docs.google.com/spreadsheetgadgets/gadgets/js/container.js?c=1&container=spreadsheets&onload=TX_GadgetsCallback
+SRCID :0
+DOCID :0
+https://docs.google.com/static/spreadsheets/client/js/1573477003-trix_waffle_i18n_pickerbase.js
+SRCID :0
+DOCID :0
+https://docs.google.com/static/spreadsheets/client/js/440261750-trix_waffle_i18n_images.js
+SRCID :0
+DOCID :0
+https://docs.google.com/static/spreadsheets/client/js/2624991525-trix_waffle_i18n_drawings.js
+SRCID :0
+DOCID :0
+https://docs.google.com/static/spreadsheets/client/js/1585059883-trix_waffle_i18n_gvizcharts.js
+SRCID :0
+DOCID :0
+https://docs.google.com/static/spreadsheets/client/js/4084761752-trix_waffle_i18n_offline.js
+SRCID :0
+DOCID :0
+https://docs.google.com/static/spreadsheets/client/js/3207330515-trix_waffle_i18n_onepick.js
+SRCID :0
+DOCID :0
+https://docs.google.com/static/spreadsheets/client/js/518385906-trix_waffle_i18n_maestro.js
+SRCID :0
+DOCID :0
+https://docs.google.com/static/spreadsheets/client/js/3004144593-trix_waffle_i18n_revisions.js
+SRCID :0
+DOCID :0
+https://docs.google.com/static/spreadsheets/client/js/33090037-trix_waffle_i18n_datepicker.js
+SRCID :0
+DOCID :0
+https://docs.google.com/static/spreadsheets/client/js/526392994-trix_waffle_i18n_autofilter.js
+SRCID :0
+DOCID :0
+https://docs.google.com/static/spreadsheets/client/js/1157843817-trix_waffle_i18n_indexcardview.js
+SRCID :0
+DOCID :0
+https://docs.google.com/static/spreadsheets/client/js/1410157112-trix_waffle_i18n_pivottables.js
+SRCID :0
+DOCID :0
+https://docs.google.com/static/spreadsheets/client/js/1447033947-trix_waffle_i18n_rangeprotection.js
+SRCID :0
+DOCID :0
+https://docs.google.com/static/spreadsheets/client/js/3552921675-trix_waffle_i18n_rangeprotectionpane.js
+SRCID :0
+DOCID :0
+https://docs.google.com/static/spreadsheets/client/js/326955757-trix_waffle_i18n_screenreader.js
+SRCID :0
+DOCID :0
+https://docs.google.com/static/spreadsheets/client/js/994370118-trix_waffle_i18n_inputtools.js
+SRCID :0
+DOCID :0
+https://docs.google.com/static/spreadsheets/client/js/1976246760-trix_waffle_i18n_functionhelp.js
+SRCID :0
+DOCID :0
+https://docs.google.com/static/spreadsheets/client/js/1837727543-trix_waffle_i18n_printsettings.js
+SRCID :0
+DOCID :0
+https://docs.google.com/viewer?a=pc&pid=gmail&attid=0.1&thid=13b14d97db109ed0&mt=application%2Frar&url=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Fui%3D2%26ik%3De0106623a0%26view%3Datt%26th%3D13b14d97db109ed0%26attid%3D0.1%26disp%3Dsafe%26realattid%3Df_h9oipplu0%26zw&sig=AHIEtbTYZ5NSQp9EZFU1YK87EeusoYSxCw
+SRCID :gmail&attid=
+DOCID :0
+https://docs.google.com/a/iiitd.ac.in/viewer?a=pc&pid=gmail&attid=0.1&thid=13b14d97db109ed0&mt=application/rar&url=https://mail.google.com/mail/?ui%3D2%26ik%3De0106623a0%26view%3Datt%26th%3D13b14d97db109ed0%26attid%3D0.1%26disp%3Dsafe%26realattid%3Df_h9oipplu0%26zw&sig=AHIEtbTYZ5NSQp9EZFU1YK87EeusoYSxCw
+SRCID :gmail&attid=
+DOCID :0
+https://docs.google.com/a/iiitd.ac.in/viewer?a=pc&pid=gmail&attid=0.1&thid=13b14d97db109ed0&mt=application/rar&url=https://mail.google.com/mail/?ui%3D2%26ik%3De0106623a0%26view%3Datt%26th%3D13b14d97db109ed0%26attid%3D0.1%26disp%3Dsafe%26realattid%3Df_h9oipplu0%26zw&sig=AHIEtbTYZ5NSQp9EZFU1YK87EeusoYSxCw
+SRCID :gmail&attid=
+DOCID :0
+https://docs.google.com/viewer?a=pc&pid=gmail&attid=0.1&thid=13b187be3fd45f29&mt=application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document&url=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Fui%3D2%26ik%3De0106623a0%26view%3Datt%26th%3D13b187be3fd45f29%26attid%3D0.1%26disp%3Dsafe%26realattid%3Df_h9okycj70%26zw&sig=AHIEtbRmTsvdN75rkfYYXRIhIs8WbopoSg
+SRCID :gmail&attid=
+DOCID :0
+https://docs.google.com/a/iiitd.ac.in/viewer?a=pc&pid=gmail&attid=0.1&thid=13b187be3fd45f29&mt=application/vnd.openxmlformats-officedocument.wordprocessingml.document&url=https://mail.google.com/mail/?ui%3D2%26ik%3De0106623a0%26view%3Datt%26th%3D13b187be3fd45f29%26attid%3D0.1%26disp%3Dsafe%26realattid%3Df_h9okycj70%26zw&sig=AHIEtbRmTsvdN75rkfYYXRIhIs8WbopoSg
+SRCID :gmail&attid=
+DOCID :0
+https://docs.google.com/a/iiitd.ac.in/viewer?a=pc&pid=gmail&attid=0.1&thid=13b187be3fd45f29&mt=application/vnd.openxmlformats-officedocument.wordprocessingml.document&url=https://mail.google.com/mail/?ui%3D2%26ik%3De0106623a0%26view%3Datt%26th%3D13b187be3fd45f29%26attid%3D0.1%26disp%3Dsafe%26realattid%3Df_h9okycj70%26zw&sig=AHIEtbRmTsvdN75rkfYYXRIhIs8WbopoSg
+SRCID :gmail&attid=
+DOCID :0
+https://docs.google.com/a/iiitd.ac.in/spreadsheet/info/locale?id=t5f3fupaghb1tw-qVx2TzYA.18250281880871521797.8859172819153576888&tfe=ob_934&gsessionid=Eh44MwDNzGY
+SRCID :t5f3fupaghb1
+DOCID :0
+https://docs.google.com/a/iiitd.ac.in/spreadsheet/info/locale?id=t5f3fupaghb1tw-qVx2TzYA.18250281880871521797.3662120282666582359&tfe=ob_934&gsessionid=Eh44MwDNzGY
+SRCID :t5f3fupaghb1
+DOCID :0
+https://docs.google.com/a/iiitd.ac.in/spreadsheet/info/functionlist?id=t5f3fupaghb1tw-qVx2TzYA.18250281880871521797.3662120282666582359&tfe=ob_934
+SRCID :t5f3fupaghb1
+DOCID :0
+https://docs.google.com/a/iiitd.ac.in/spreadsheet/info/locale?id=tNDGE-Yksf38L2R0MJHwxRg.18250281880871521797.1913160848742393253&tfe=yh_244&gsessionid=q3EKA6dWIbo
+SRCID :tNDGE-Yksf38
+DOCID :0
